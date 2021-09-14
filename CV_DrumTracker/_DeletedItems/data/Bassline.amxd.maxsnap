@@ -1,0 +1,43 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Bassline.amxd",
+	"origin" : "Bassline.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 1,
+	"snapshot" : 	{
+		"name" : "Bassline.amxd",
+		"origname" : "C74:/packages/Max for Live/patchers/Max Instrument/Bassline/Bassline.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"2nd_wave" : 1.661,
+				"attack" : 0.0,
+				"attack_filt" : 0.0,
+				"cut" : 0.0,
+				"decay" : 32.308799999999998,
+				"decay_filt" : 4.064,
+				"env" : 0.0,
+				"filt_type" : 0.1608,
+				"glide" : 0.0,
+				"key" : 83.362799999999993,
+				"level" : 0.0,
+				"mod_filt" : 41.135300000000001,
+				"mod_wave" : 1.0,
+				"polyphony" : 1.0,
+				"release" : 52.158899999999996,
+				"release_filt" : 36.207699999999996,
+				"res" : 0.0,
+				"speed" : 0.0,
+				"subosc" : 2.0,
+				"sustain" : 26.682700000000001,
+				"sustain_filt" : 40.170099999999998,
+				"wave" : 0.992
+			}
+
+		}
+
+	}
+
+}

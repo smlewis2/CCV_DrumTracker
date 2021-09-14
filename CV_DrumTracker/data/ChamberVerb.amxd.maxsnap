@@ -1,0 +1,36 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "ChamberVerb.amxd",
+	"origin" : "ChamberVerb.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "ChamberVerb.amxd",
+		"origname" : "~/Documents/Max 8/Projects/CV_DrumTracker/patchers/ChamberVerb.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"1_delay" : 48.007874015748037,
+				"1_feedback" : 12.0,
+				"2_delay" : 30.771653543307099,
+				"2_feedback" : 8.0,
+				"3_delay" : 35.472440944881889,
+				"3_feedback" : 11.0,
+				"45_delay" : 38.606299212598422,
+				"45_feedback" : 19.0,
+				"45_moddepth" : 0.866141732283465,
+				"45_modfreq" : 0.984251968503937,
+				"67_delay" : 24.503937007874018,
+				"67_feedback" : 18.0,
+				"filter_cutoff" : 1980.314960629919824,
+				"live.toggle" : 0.0,
+				"wet_dry" : 83.0
+			}
+
+		}
+
+	}
+
+}
